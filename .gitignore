@@ -1,0 +1,5 @@
+.idea
+__pycache__
+main
+out/temp
+venv
